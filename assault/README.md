@@ -1,5 +1,5 @@
 # assault
-A simple CLI load testing tool.
+A simple CLI load testing tool. Using Python click and asyncio
 ## Installation
 Install using `pip`:
 ```
